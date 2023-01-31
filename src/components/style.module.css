@@ -1,0 +1,26 @@
+.title {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+.createList_item {
+  list-style: none;
+}
+
+.contactform {
+  width: 300px;
+  padding: 20px;
+  display: block;
+  border: 1px solid #477405;
+}
+
+.input_name {
+  font-size: larger;
+  margin-bottom: 10px;
+}
+
+.search_container,
+.contact_list {
+  margin-left: 20px;
+  padding: 0;
+}
